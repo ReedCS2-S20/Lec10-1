@@ -1,8 +1,18 @@
-# Lecture 09-1: IMMUTABILITY, REFERENCE, AND INHERITANCE
+# Lecture 10-1: IMMUTABILITY, REFERENCE, AND INHERITANCE
 
 This folder contains my slides for Lecture 10-1 as PDF, as well as my inheritance example, 
 a `class Account` and some derived classes, these within the `samples` folder. Below are
 my notes describing the slides that present the `Account` hierarchy.
+
+
+## Video Links
+
+`Slide 01` [Part 01. More On Operators](https://ensemble.reed.edu/Watch/Eg7x3A9J) *13m30s*  
+`Slide 10` [Part 02. Passing By Reference](https://ensemble.reed.edu/Watch/Wb7p4EYn) *12m30s*  
+`Slide 24` [Part 03. `const` Refernce Parameters and Methods](https://ensemble.reed.edu/Watch/Zq9x2MFb) *07m30s*  
+`Slide 30` [Part 04. Inheritance](https://ensemble.reed.edu/Watch/g2WLy47A) *13m00s*  
+`Slide 46` [Part 05. WeekPreview](https://ensemble.reed.edu/Watch/Xp53NeHb) *03m30s*  
+
 
 ---
 
